@@ -1,3 +1,3 @@
 # python_tkinter
 
-This is my practice project with tkinter 
+This is my practice project with Tkinter 
